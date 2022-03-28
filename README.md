@@ -1,5 +1,7 @@
 # LEAN-IT Table
 
+Demo (https://lean-it-table.vercel.app)
+
 Stasus: Finished
 
 Frontend application. Test task for LEAN-IT.

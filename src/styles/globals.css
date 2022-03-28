@@ -1,0 +1,9 @@
+
+:root{
+  --regular-font-family: "Montserrat-Regular", "Roboto", sans-serif;
+  --semiBold-font-family: "Montserrat-SemiBold", "Roboto", sans-serif;
+  --bold-font-family: "Montserrat-Bold", "Roboto", sans-serif;
+
+  --blue-400: #005bff;
+  --gray-400: #7f7f7f;
+}

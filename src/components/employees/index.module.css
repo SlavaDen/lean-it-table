@@ -1,0 +1,24 @@
+
+.employeesSetPageSize_label{
+  margin-right: 4px;
+  font-family: var(--semiBold-font-family);
+}
+
+.employeesSearchForm_button {
+  margin-left: 5px;
+}
+
+.employeesSearchForm_icon *{
+  height: 4px;
+  width: 4px;
+}
+
+.employeesSortItem_button{
+  margin-left: 5px;
+}
+
+.employeesSortItem_icon *{
+  fill: var(--gray-400);
+  height: 4px;
+  width: 4px;
+}
